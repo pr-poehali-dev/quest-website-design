@@ -92,9 +92,7 @@ const Index = () => {
                     <h3 className="text-xl font-semibold text-white">
                       Задание 1
                     </h3>
-                    <p className="text-gray-300">
-                      Найдите скрытый код в комнате
-                    </p>
+                    <p className="text-gray-300">KONASEI</p>
                   </div>
                 </div>
               </CardContent>
@@ -108,7 +106,10 @@ const Index = () => {
                     <h3 className="text-xl font-semibold text-white">
                       Задание 2
                     </h3>
-                    <p className="text-gray-300">Разгадайте шифр на стене</p>
+                    <p className="text-gray-300">
+                      СОБЕРИ ВСЕ СООБЩЕНИЕ ОТ hamstercombat2027 И СОСТАВЬ
+                      ПРЕДЛОЖЕНИЕ!
+                    </p>
                   </div>
                 </div>
               </CardContent>
@@ -123,8 +124,22 @@ const Index = () => {
                       Задание 3
                     </h3>
                     <p className="text-gray-300">
-                      Соберите все части головоломки
+                      СОЕДИНИ ВСЕ ПЕРВЫЕ СЛОВА OLIVЬE В КАЖДОМ ВИДЕО
                     </p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card className="bg-gray-900 border-gray-700">
+              <CardContent className="p-6">
+                <div className="flex items-center space-x-4">
+                  <Icon name="Search" className="text-white" size={32} />
+                  <div className="text-left">
+                    <h3 className="text-xl font-semibold text-white">
+                      Задание 4
+                    </h3>
+                    <p className="text-gray-300">ДОБЕРИСЬ ДО ПУСТОТЫ</p>
                   </div>
                 </div>
               </CardContent>
